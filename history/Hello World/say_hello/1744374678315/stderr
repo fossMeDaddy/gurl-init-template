@@ -1,0 +1,21 @@
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0*   Trying 96.7.128.175:80...
+* Connected to example.com (96.7.128.175) port 80 (#0)
+> GET / HTTP/1.1
+> Host: example.com
+> User-Agent: curl/7.88.1
+> Accept: */*
+> 
+< HTTP/1.1 200 OK
+< Content-Type: text/html
+< ETag: "84238dfc8092e5d9c0dac8ef93371a07:1736799080.121134"
+< Last-Modified: Mon, 13 Jan 2025 20:11:20 GMT
+< Cache-Control: max-age=2359
+< Date: Fri, 11 Apr 2025 12:21:15 GMT
+< Content-Length: 1256
+< Connection: keep-alive
+< 
+{ [1256 bytes data]
+100  1256  100  1256    0     0   2327      0 --:--:-- --:--:-- --:--:--  2347100  1256  100  1256    0     0   2324      0 --:--:-- --:--:-- --:--:--  2343
+* Connection #0 to host example.com left intact

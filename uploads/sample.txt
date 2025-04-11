@@ -1,0 +1,3 @@
+this is a sample file for uploads...
+
+this can be referenced as @uploads/sample.txt in curl commands.
