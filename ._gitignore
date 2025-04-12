@@ -1,0 +1,5 @@
+.history/
+.uploads/
+
+.env.*
+**/.env.*
